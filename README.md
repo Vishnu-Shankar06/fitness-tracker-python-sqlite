@@ -77,7 +77,7 @@ This system was deliberately built using **Zero External Dependencies** to demon
 ## 📂 Project Structure
 
 ```bash
-workout-tracker-sql/
+DB-fitness-tracker/
 │
 ├── database.py          # SQLite connection, schema creation, and CRUD operations
 ├── main.py              # CLI UI, business logic, and datetime calculations
@@ -128,7 +128,7 @@ View history? (y/n): y
    ```
 2. **Navigate to the directory:**
    ```bash
-   cd workout-tracker-sql
+   cd DB-fitness-tracker
    ```
 3. **Execute the application:**
    *Note: On the first run, `database.py` will automatically generate the local `fitness.db` file and instantiate the required schema.*
