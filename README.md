@@ -146,4 +146,4 @@ While currently a fully functional CLI tool, the architecture is designed to sup
 3. **Authentication:** Implementing secure password hashing using `bcrypt` for user profiles.
 
 ## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
