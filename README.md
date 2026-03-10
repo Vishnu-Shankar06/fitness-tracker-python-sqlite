@@ -1,6 +1,6 @@
 # 🏋️‍♂️ NexusFit CLI: Relational Backend Architecture
 
-> 📜 **Note:** This is the scaled backend version of my application. To see the original MVP built purely with Python dictionaries and JSON, [click here] https://github.com/Vishnu-Shankar06/fitness-tracker-python.
+> 📜 **Note:** This is the scaled backend version of my application. To see the original MVP built purely with Python dictionaries and JSON, [click here](https://github.com/Vishnu-Shankar06/fitness-tracker-python).
 
 > **Local Backend System & CLI Application** for Comprehensive Workout Tracking
 
